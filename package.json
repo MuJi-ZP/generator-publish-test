@@ -1,0 +1,11 @@
+{
+  "name": "generator-publish-test",
+  "version": "0.0.1",
+  "description": "generator-publish-test",
+  "main": "index.js",
+  "author": "ZP",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
